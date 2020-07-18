@@ -37,8 +37,8 @@ Gender - (1 = male; 0 = female)
     target - have disease or not (1=yes, 0=no) (= the predicted attribute)
 
 
-    <b>referral link</b>
-    https://archive.ics.uci.edu/ml/datasets/heart+Disease
+<b>referral link</b>
+https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
-    https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838  
+https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838  
 
