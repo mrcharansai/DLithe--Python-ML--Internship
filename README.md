@@ -38,7 +38,7 @@ Gender - (1 = male; 0 = female)
 
 
 <b>referral link</b>
-https://archive.ics.uci.edu/ml/datasets/heart+Disease
+ https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
 https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838  
 
